@@ -9,6 +9,12 @@ on:
 jobs:
   update-configs-job:
     runs-on: ubuntu-latest
+
+    # <<< CHANGE: Add this permissions block >>>
+    # This grants the workflow write permission to the repository contents.
+    permissions:
+      contents: write
+
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4
@@ -31,5 +37,5 @@ jobs:
           git add stream_data.txt
           # The following command will fail if there are no changes, which is fine.
           # We use "|| exit 0" to prevent the workflow from failing.
-          git commit -m "Update hysteria2 configs" || exit 0
+          git commit -m "Update stream data" || exit 0
           git push

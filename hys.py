@@ -8,7 +8,7 @@ urls = [
 ]
 
 # The output file will be saved in the root of the project
-output_file_path = 'hysteria2_configs.txt'
+output_file_path = 'stream_data.txt'
 
 def main():
     """

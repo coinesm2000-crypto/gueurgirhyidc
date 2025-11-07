@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add hysteria2_configs.txt
+          git add stream_data.txt
           # The following command will fail if there are no changes, which is fine.
           # We use "|| exit 0" to prevent the workflow from failing.
           git commit -m "Update hysteria2 configs" || exit 0

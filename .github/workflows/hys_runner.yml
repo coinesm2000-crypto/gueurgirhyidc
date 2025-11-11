@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # --- این بخش اضافه شده است ---
+    permissions:
+      contents: write # به اکشن اجازه می‌دهد محتوای ریپازیتوری را تغییر دهد (push کند)
 
     steps:
       - name: Checkout repository
@@ -18,7 +22,6 @@ jobs:
         with:
           python-version: '3.x'
 
-      # --- این مرحله اضافه شده است ---
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip

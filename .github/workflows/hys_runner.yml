@@ -1,0 +1,29 @@
+name: Run HYS Script
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *" # این دستور به معنی اجرا در دقیقه‌ی صفر هر سه ساعت است
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x' # یا نسخه پایتون مورد نظر شما
+
+      # اگر اسکریپت شما به کتابخانه‌های خاصی نیاز دارد، آن‌ها را در یک فایل requirements.txt قرار دهید
+      # و این بخش را از حالت کامنت خارج کنید.
+      # - name: Install dependencies
+      #   run: |
+      #     python -m pip install --upgrade pip
+      #     if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run script
+        run: python hys.py

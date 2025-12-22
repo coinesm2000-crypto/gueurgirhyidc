@@ -110,7 +110,6 @@ hysteria2://wXh99oRDIt@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://wkAHoJxpH6@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://zdUcTseVJy@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#%3E%3E%40ShadowsocksM%3A%3AUS
-hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://35f332d0-0b05-4cc6-91cb-ec0d4465055f@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode

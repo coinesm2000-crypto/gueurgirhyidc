@@ -1,4 +1,3 @@
-hysteria2://3FyodfybrY@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://4CQDwSnjr3@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://5MHa2ppKQq@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#All-#V2rayAlpha--12
@@ -151,6 +150,8 @@ hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&o
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=nalog.ru#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=nalog.ru#🇫🇮h@ConfigV2RayNG
 hysteria2://gZBgjlPmPF@85.9.197.203:2083?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇺🇲@V2RayyNGvpn🇺🇲همه اوپراتور ها
+hysteria2://infowild:Y7clYy8e6T9B5F9yKaiTI6rVluNvgBHC@gamingger02.wilduser.org:2087?security=tls&obfs=salamander&obfs-password=7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh&insecure=1&pinSHA256=C0:64:C1:D9:49:CB:4E:A7:D2:FD:9D:E4:71:C9:33:2F:CF:33:48:4E:DC:31:31:3D:D9:E9:84:99:7C:93:68:B8&sni=bts.com#r♡ya@V2rayBaaz|اضطراری
+hysteria2://infowild:Y7clYy8e6T9B5F9yKaiTI6rVluNvgBHC@gamingger02.wilduser.org:2087?security=tls&obfs=salamander&obfs-password=7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh&insecure=1&pinSHA256=C0:64:C1:D9:49:CB:4E:A7:D2:FD:9D:E4:71:C9:33:2F:CF:33:48:4E:DC:31:31:3D:D9:E9:84:99:7C:93:68:B8&sni=bts.com#r♡ya@V2rayBaaz|نت ملی
 hysteria2://jk9cSiRPv7@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://kl6QSAMhZS@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://lMa2L1EbH7@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها

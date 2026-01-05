@@ -142,8 +142,6 @@ hysteria2://c09f13ce-2cca-49b6-ad1e-597566cc89c6@5.83.150.108:54365/?sni=imafake
 hysteria2://c50f9480-2e1d-40db-9458-630e79636663@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://c6e0562f-7ad1-40fb-a255-26194b2de84a@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
-hysteria2://e1cc26b3-df0b-477b-afb0-53659a25e978@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
-hysteria2://e3cb685e-7840-45cb-9d64-b2028d9b635e@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://fa8f8911-2e9b-494e-9a8d-f80239ee2214@5.83.150.108:54365/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://asrnovin_ir%3AbOcrQtyDyOqni0aedDaNFgUngcckVy5m@89.208.104.13:2097?security=tls&obfs=salamander&obfs-password=SjSQ10UvLYEztFdQKTJQFA8imEc4W&insecure=1&pinSHA256=5A%3AF9%3A94%3AB2%3A6F%3AEE%3A3E%3A6C%3A0F%3A1B%3AB7%3A02%3AB8%3A1F%3A21%3A70%3A4C%3A4F%3AA3%3A23%3AC9%3AE3%3A9E%3A8B%3A1B%3A55%3A28%3A97%3A0F%3AAE%3A65%3AC0&sni=bts.com#%40zeshtobad`

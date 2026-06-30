@@ -25,7 +25,6 @@ hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.hel
 hysteria2://s0e9dylundefinedundefinedn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#🇫🇮Finland⚡🇫🇮
 hysteria2://t-me-V2RayyNGvpn@143.14.59.229:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=8zBe6f98seElvugUHIKy1bNBc5vPOZfb+Nar3sxgZfI=&sni=www.oracle.com#2🇩🇪آلمان اوشاخلاری 🇩🇪
 hysteria2://t-me-V2RayyNGvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#🇫🇮فنلاند 🇫🇮
-hysteria2://t-me-v2rayyngvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#kurdconfig
 hysteria2://v2rayyngvpn@57.128.108.123:443/?insecure=1&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&sni=www.wordreference.com#🦖12@NetFlowTools
 hysteria2://v2rayyngvpn@57.128.108.123:443/?insecure=1&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&sni=www.wordreference.com#🦖12@oneclickvpnkeys
 hysteria2://v2rayyngvpn@57.128.108.123:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.wordreference.com#🇨🇵France-Hy🇨🇵

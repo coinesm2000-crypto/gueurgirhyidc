@@ -2,8 +2,6 @@ hysteria2://3uIVdQh2vc@140.233.177.48:33884/?insecure=1&obfs=salamander&obfs-pas
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&insecure=0&sni=qg.easyiran.org#@Leecher56
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&insecure=0&sni=qg.easyiran.org#🇩🇪@FreakConfig
 hysteria2://92QgVKZjWa@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#@V2RayyNGvpn کانال ما🇩🇪
-hysteria2://BADANGELLLL@169.40.32.218:53008?security=tls&obfs=salamander&alpn=h3&obfs-password=lwhvz2y1ntz8p5nf&insecure=0&sni=169.40.32.218#@Badangellll-JOIN🤝
-hysteria2://BADANGELLLL@169.40.32.218:53008?security=tls&obfs=salamander&alpn=h3&obfs-password=lwhvz2y1ntz8p5nf&insecure=0&sni=169.40.32.218#@Badangellll-JOIN🤝 وصل شین ،حمایت یادتون نره 👑  Banana❤
 hysteria2://CakZRUUlundefinedS@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#telegram @mtmvpn 🌛
 hysteria2://JxCHTtg2gX@91.107.152.188:40460?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#telegram @mtmvpn 🌻
 hysteria2://KJX4HQHodA@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#🇩🇪113137 | ⚡️Telegram = t.me/SOSkeyNET
@@ -20,9 +18,8 @@ hysteria2://V2RayyNGvpn-@91.107.152.188:31999?security=tls&obfs=salamander&obfs-
 hysteria2://V2RayyNGvpn@51.89.225.225:58410?security=tls&obfs=salamander&obfs-password=TeLeGRam=V2RayyNGvpn&insecure=1&pinSHA256=a2641ed53b3fbad308659ac209a522aaffacbac7ac2c6e88d4d7a2f3c459aff7&sni=www.oracle.com#🇬🇧V2RayyNGvpnکانال ما 🇬🇧
 hysteria2://V2RayyNGvpn@66.92.161.59:42286?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=3bd4b356366e25a22406f3ec66a4803e70a375b06f2f181da055eb24f156a572&sni=www.amd.com#🇨🇦Telegram=V2RayyNGvpn🇨🇦
 hysteria2://V2RayyNGvpn@91.107.174.32:25810/?insecure=1&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&sni=www.amd.com#⚙️32@oneclickvpnkeys
-hysteria2://V2RayyNGvpn@91.107.174.32:25810/?insecure=1&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&sni=www.amd.com#🇩🇪113080 | ⚡️Telegram = t.me/SOSkeyNET
 hysteria2://V2RayyNGvpn@91.107.174.32:25810?security=tls&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn&insecure=1&pinSHA256=acc6131ab42c77173ab179a5ac5707ececd64387bfd8b34c531278b561485d27&sni=www.amd.com#Telegram=V2RayyNGvpn🇩🇪2
-hysteria2://V2RayyNgvpn@65.109.177.191:443?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&sni=www.oracle.com#@prrofile_purple  ♥️👈 تلگرام
+hysteria2://V2RayyNGvpn@91.107.174.32:25810?sni=www.amd.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=T-ME-V2RayyNGvpn#@Daily_Configs : کانال تلگرام
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 hysteria2://ZkaDQncyundefineda@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#🇩🇪113138 | ⚡️Telegram = t.me/SOSkeyNET
 hysteria2://ZkaDQncyundefineda@91.107.152.188:31999?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=52c567daa2ae092d33e0f2b49729505bb43760622ac7915581bc78c668ee9b8e&sni=www.amd.com#🇩🇪Telegram=V2RayyNGvpn🚀

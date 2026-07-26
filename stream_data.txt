@@ -1,10 +1,8 @@
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443/?sni=germany1.noesissite.ru#🎀73@oneclickvpnkeys
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#@FarazV2ray
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#@filembad
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061/?obfs=salamander&obfs-password=fd3olglr2bmimgje&sni=assets.gateway-stream.com#@filembad
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061/?obfs=salamander&obfs-password=fd3olglr2bmimgje&sni=assets.gateway-stream.com#🎴53@oneclickvpnkeys
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#@tootffarangi🍓-3
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#@tootffarangi🍓-5
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#@tootffarangi🍓-6
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?security=tls&obfs=salamander&obfs-password=fd3olglr2bmimgje&insecure=0&sni=assets.gateway-stream.com#✅ t.me/bigAVPN ایران آزاد 👑
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=fd3olglr2bmimgje#@Daily_Configs
@@ -47,4 +45,3 @@ hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.94.97:8443/?sni=de5-hy2.
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433/?sni=de1-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de1-hy2.veilvpn.life:8433/?sni=de1-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de5-hy2.veilvpn.life:8443/?sni=de5-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&insecure=0&sni=hy2.123266.xyz#vip%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%40Sgv2ray%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85```

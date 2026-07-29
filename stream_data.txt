@@ -48,11 +48,8 @@ hysteria2://voQTxwGh4I@91.107.178.22:443/?insecure=1&obfs=salamander&obfs-passwo
 hysteria2://voQTxwGh4I@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#🇩🇪 t-me-V2RayyNGvpn 🇩🇪
 hysteria2://voQTxwGh4I@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&sni=www.refersion.com#@meliproxyy
 hysteria2://voQTxwGh4I@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&sni=www.refersion.com#MTMVPN Channel 15
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nland1.noesissite.ru:443/?sni=nland1.noesissite.ru#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443/?sni=germany1.noesissite.ru#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.94.97:8443/?sni=de5-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de1-hy2.veilvpn.life:8433/?sni=de1-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
-hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de5-hy2.veilvpn.life:8443/?sni=de5-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.95.17:8433/?sni=de1-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de1-hy2.veilvpn.life:8433/?sni=de1-hy2.veilvpn.life#%3E%3E%40oneclickvpnkeys%3A%3ADE

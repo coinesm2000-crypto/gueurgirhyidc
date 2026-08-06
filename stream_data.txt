@@ -13,6 +13,7 @@ hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-p
 hysteria2://TelegramVPNjey@179.61.251.253:37003/?obfs=salamander&obfs-password=83v9muumcyikh5ch&sni=de.jey.cc.cd#🤖75@oneclickvpnkeys
 hysteria2://TelegramVPNjey@179.61.251.253:37003?alpn=h3&ech=AF/+DQBbAAAgACDPt1H4KFpH0EfzJU8tpkWdkeeaN+1oiXNSe0ksstovYQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAxkZS5qZXkuY2MuY2QAAA==&fm={"udp":[{"settings":{"password":"83v9muumcyikh5ch"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=83v9muumcyikh5ch&security=tls&sni=de.jey.cc.cd#Telegram@VPNjey🇩🇪🇩🇪
 hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&obfs=salamander&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd#@FarazV2ray
+hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&obfs=salamander&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd#@tootffarangi🍓-2
 hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&obfs=salamander&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd#@tootffarangi🍓-3
 hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&obfs=salamander&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd#@vmesc
 hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&obfs=salamander&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd#Channel : @Daily_Configs

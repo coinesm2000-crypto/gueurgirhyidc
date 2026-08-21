@@ -1,7 +1,6 @@
 hysteria2://085178e12d2211ec@nl.prisma-access.club:8445/?insecure=1&sni=nl.prisma-access.club#🍏69@oneclickvpnkeys
 hysteria2://09e4b638945d44bfa60b4fd00edad131@assets.gateway-stream.com:52000?security=tls&obfs=salamander&alpn=h3&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#Proxy_mtm 33
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&obfs=salamander&obfs-password=dnwx30hvcobf7xcf&insecure=0&sni=185.47.172.226#@confiig_hub
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@v2raybaaz³
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@vmesskhodam
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#Telegram:@v2rayng3
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#kurdconfig
@@ -12,7 +11,6 @@ hysteria2://9cc2113e-6b5b-4ced-9c46-70cf78d2c599@dns.devmrzero.ir:2096?security=
 hysteria2://@Tel@Configvibes@198.105.123.106:11504?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=faabd9eda7a1f97ebe67769a903eb816af7be17ce8825dd3f8af070b62c86961&sni=archive.ubuntu.com#@Configvibes🇹🇷
 hysteria2://@Telegram@Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes&insecure=1&pinSHA256=4d885985ade324c2cee16b7107ae41fdda03800eb8676b946ea4760162a1279c&sni=ftp.debian.org#@Configvibes🇹🇷
 hysteria2://@Telegram@Configvibes@45.92.219.237:8486?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=81ffead0b74d5839b6673de7bd5785cf2574f426acdd62d3e3199293a885377e&sni=ftp.debian.org#@Configvibes🇹🇷
-hysteria2://Configvibes@107.181.155.107:2096?security=tls&obfs=salamander&obfs-password=IL+pm5"K?4gef:Jvn8^G+:N,Neyy8&insecure=1&pinSHA256=4d885985ade324c2cee16b7107ae41fdda03800eb8676b946ea4760162a1279c&sni=ftp.debian.org#@Configvibes🇹🇷
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🩵+@Azarakhsh_Proxy+🩷
 hysteria2://Telegram@vpnjey@31.76.27.23:37009/?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey&sni=de.vpnjey.store#🐦‍🔥24@oneclickvpnkeys
 hysteria2://Telegram@vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#Telegram@vpnjey
@@ -44,7 +42,6 @@ hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52009?security=tls&obfs=s
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#@Azaranv2ray
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#kurdconfig
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52057?security=tls&obfs=salamander&obfs-password=auw7lhtk2kxyq4g9&insecure=0&sni=assets.gateway-stream.com#@Nexus_Panell چنل تلگرام
-hysteria2://085178e12d2211ec@nl.prisma-access.club:8445/?insecure=1&sni=nl.prisma-access.club#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS

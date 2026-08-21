@@ -32,6 +32,7 @@ hysteria2://d86efa900c2f4bb6bde662f1ef6413b8@assets.gateway-stream.com:52029?sni
 hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#🐦‍🔥78@oneclickvpnkeys
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#🐦‍🔥80@oneclickvpnkeys
 hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#🇫🇮@
+hysteria2://m3bqxk03mg221yi2@95.217.96.131:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#🇫🇮@FreakConfig
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52009?security=tls&obfs=salamander&obfs-password=kf1lypzqidy6pimt&insecure=0&sni=assets.gateway-stream.com#@v2ray313 کانالمون 🇧🇬
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#@v2ray313 کانالمون 🇹🇷
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#@v2ray_phoenix
@@ -42,9 +43,7 @@ hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm={"udp":[{"settings"
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52009?security=tls&obfs=salamander&obfs-password=kf1lypzqidy6pimt&insecure=0&sni=assets.gateway-stream.com#@v2ray313 کانالمون ❤️
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#@Azaranv2ray
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#kurdconfig
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#🇫🇮@FreakConfig
-hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52040?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=7206pa46enqqdnmt#@Daily_Configs
+hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52057?security=tls&obfs=salamander&obfs-password=auw7lhtk2kxyq4g9&insecure=0&sni=assets.gateway-stream.com#@Nexus_Panell چنل تلگرام
 hysteria2://085178e12d2211ec@nl.prisma-access.club:8445/?insecure=1&sni=nl.prisma-access.club#%3E%3E%40oneclickvpnkeys%3A%3ANL
 hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS

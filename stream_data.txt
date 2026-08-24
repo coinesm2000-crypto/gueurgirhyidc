@@ -1,5 +1,4 @@
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?security=tls&obfs=salamander&obfs-password=dnwx30hvcobf7xcf&insecure=0&sni=185.47.172.226#@confiig_hub
-hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.111.33:443/?insecure=1&sni=hy2.bluekitty.lol#🇩🇪151227 | ⚡️Telegram = t.me/SOSkeyNET
 hysteria2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.76.111.33:443/?insecure=1&sni=hy2.bluekitty.lol#🏓39@oneclickvpnkeys
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@FarazV2ray
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@V2rayng_Fast
@@ -13,6 +12,9 @@ hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdw
 hysteria2://@Tel@Configvibes@198.105.123.106:11504?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=faabd9eda7a1f97ebe67769a903eb816af7be17ce8825dd3f8af070b62c86961&sni=archive.ubuntu.com#@Configvibes🇹🇷
 hysteria2://@Telegram@Configvibes@45.92.219.237:8486?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=81ffead0b74d5839b6673de7bd5785cf2574f426acdd62d3e3199293a885377e&sni=ftp.debian.org#@Configvibes🇹🇷
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#🏓10@oneclickvpnkeys
+hysteria2://Germany2026hy@45.128.99.14:8443/?insecure=1&obfs=salamander&obfs-password=SalamanderDE2026&sni=de.nobelchat.ru#🇩🇪151359 | ⚡️Telegram = t.me/SOSkeyNET
+hysteria2://Germany2026hy@45.128.99.14:8443/?insecure=1&obfs=salamander&obfs-password=SalamanderDE2026&sni=de.nobelchat.ru#🏓61@oneclickvpnkeys
+hysteria2://Germany2026hy@45.128.99.14:8443?sni=de.nobelchat.ru&insecure=1&obfs=salamander&obfs-password=SalamanderDE2026#Telegram channel : @Daily_Configs
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🩵+@Azarakhsh_Proxy+🩷
 hysteria2://StableInternet@ptserv.accuratenetworkchecker.ir:36896?security=tls&obfs=salamander&obfs-password=hmvyfx1tpnz6pp3k&insecure=0&sni=lms22.gelzaro.ir#@Iran_v2ray1
 hysteria2://Telegram@vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#Telegram@vpnjey
@@ -30,9 +32,12 @@ hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52009?security=tls&obfs=s
 hysteria2://m3bqxk03mg221yi2@assets.gateway-stream.com:52067?security=tls&obfs=salamander&obfs-password=txwr28j1lntoy0sj&insecure=0&sni=assets.gateway-stream.com#@v2ray313 کانالمون 🇹🇷
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#@FarazV2ray
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#@V2rayng_Fast
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#@filembad
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#@tootffarangi🍓-11
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#@tootffarangi🍓-4
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#@v2raybaaz
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🇦🇪AE-🚀@VPNine1
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#@Daily_Configs : کانال
 hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm={"udp":[{"settings":{"password":"2gg0tx9d2etug8n9"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=2gg0tx9d2etug8n9&security=tls&sni=pro2.riziro.ir#🇱🇻hysteria
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52008?alpn=h3&fm={"udp":[{"settings":{"password":"93lc6r07zfx4crct"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=93lc6r07zfx4crct&security=tls&sni=assets.gateway-stream.com#dc-udp-🇧🇪 Belgium-Brussels

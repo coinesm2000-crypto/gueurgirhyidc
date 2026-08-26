@@ -46,8 +46,8 @@ hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fm={"udp":[{"settings"
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52008?alpn=h3&fm={"udp":[{"settings":{"password":"93lc6r07zfx4crct"},"type":"salamander"}]}&fp=chrome&obfs=salamander&obfs-password=93lc6r07zfx4crct&security=tls&sni=assets.gateway-stream.com#dc-udp-🇧🇪 Belgium-Brussels
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52009?security=tls&obfs=salamander&obfs-password=kf1lypzqidy6pimt&insecure=0&sni=assets.gateway-stream.com#@v2ray313 کانالمون ❤️
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#@Azaranv2ray
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#%3E%3E%40oneclickvpnkeys%3A%3ADE
+hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS

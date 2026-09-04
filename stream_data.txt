@@ -165,7 +165,6 @@ hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52008?security=tls&obfs
 hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52019?alpn=h3&fp=chrome&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&security=tls&sni=giftcard.gateway-stream.com#dc-udp-🇨🇾 Cyprus-Nicosia
 hysteria2://zvxywxoorgqk3fzb@giftcard.gateway-stream.com:52019?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@bored_vpn
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#%3E%3E%40oneclickvpnkeys%3A%3ALV
-hysteria2://b504a1c7-1bfe-461f-9329-cbc653deb3d7@144.31.217.201:443/?sni=144-31-217-201.sslip.io#%3E%3E%40oneclickvpnkeys%3A%3ANO
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS

@@ -52,10 +52,8 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&alpn=h3&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#کانال تلگرام : Free_VPN_CH@
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#کانال تلگرام : Free_VPN_CH@
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@v2ray313 کانالمون 😦
-hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52022?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🇩🇪@AZARBAYJAB1
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52029?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@v2ray313 کانالمون 😾
 hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52030?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#@v2ray313 کانالمون 😁
-hysteria2://bfmf6a05bp4fjwuh@giftcard.gateway-stream.com:52043?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#🇮🇹@AZARBAYJAB1
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#[🇷🇺]t.me/ConfigV2RayNG
 hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🇷🇺@FreakConfig
 hysteria2://clz08qwil91241w7@giftcard.gateway-stream.com:52021?security=tls&obfs=salamander&alpn=h3&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#-🇩🇪 @VConfing

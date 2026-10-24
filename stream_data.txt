@@ -26,7 +26,6 @@ hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&ob
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#تلگرام MTMVPN
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#✅  @vistav2ray کانال ما ✅
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
-hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#@meliproxyy
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#Channel : @Daily_Configs
 hysteria2://Telegram:vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#Telegram@vpnjey
 hysteria2://Telegram:vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#Telegram@vpnjey
@@ -39,7 +38,6 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.1
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#@V2rayng_mar_ket
 hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33025?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#🇨🇭192087 | ⚡️Telegram = t.me/v2ray_configs_pools
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@Selinc
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@v2ray_phoenix
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#@vmess_ir
 hysteria2://fb2defa0-2ee5-4ad9-90b7-dde7cbf3f01f@51.75.118.5:20161?sni=www.google.com&obfs=salamander&obfs-password=546e172a11c77094&insecure=1&upmbps=10000&downmbps=10000#@pass_net
 hysteria2://fmaznn1lrzys7ddy@giftcard.gateway-stream.com:52076?security=tls&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u&insecure=0&sni=giftcard.gateway-stream.com#Telegram 🆔@Cnetvpn 🇺🇲

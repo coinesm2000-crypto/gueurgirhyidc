@@ -1,4 +1,5 @@
-hysteria2://59018379-d5df-4314-ab23-df0e838d7953@198.13.140.193:443?security=tls&obfs=salamander&alpn=h3&obfs-password=litevpn&insecure=0&sni=efa11.lumariqis.com#@FXxNET⚡️
+hysteria2://59018379-d5df-4314-ab23-df0e838d7953@198.13.140.193:443/?obfs=salamander&obfs-password=litevpn&sni=efa11.lumariqis.com#🇩🇪204414 | ⚡️Telegram = t.me/SOSkeyNET
+hysteria2://59018379-d5df-4314-ab23-df0e838d7953@198.13.140.193:443/?obfs=salamander&obfs-password=litevpn&sni=efa11.lumariqis.com#🇩🇪DE-🚀@VPNine1
 hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?security=tls&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1&sni=cdn77.dmtr.ru#@Begoo_VPN ²⁹⁰
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@confiig_hub
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#Telegram:@v2rayng3

@@ -10,6 +10,7 @@ hysteria2://Telegram-vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&ob
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#@prrofile_purple | ViP ⚡
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
 hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
+hysteria2://VPNJey@179.61.138.145:36264/?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey&sni=de2.jey.cc.cd#🗼62@oneclickvpnkeys
 hysteria2://VPNJey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
 hysteria2://VPNJey@[2a0f:5707:aaf1:11a6::1]:36264/?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey&sni=de2.jey.cc.cd#🎍9@oneclickvpnkeys
 hysteria2://VPNJey@[2a0f:5707:aaf1:11a6::1]:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey

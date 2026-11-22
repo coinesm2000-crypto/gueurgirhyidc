@@ -10,7 +10,6 @@ hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?sni=quotes.ali-khamenei.world&ob
 hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&obfs=salamander&obfs-password=v0qq015d7c8zgzu7&insecure=0&sni=quotes.ali-khamenei.world#@B2Hub
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#@confiig_hub
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#Telegram:@v2rayng3
-hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#🔵93@oneclickvpnkeys
 hysteria2://HATATEAYA@77.90.15.183:8964?sni=ganlanc.at&insecure=1&obfs=salamander&obfs-password=HATATEAYA#Channel : @Daily_Configs
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🩵+@Azarakhsh_Proxy+🩷
 hysteria2://Telegram-vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
@@ -18,7 +17,6 @@ hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&ob
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
 hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
 hysteria2://VPNJEy@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
-hysteria2://VPNJEy@[2a0f:5707:aaf1:11a6::1]:36264/?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey&sni=de2.jey.cc.cd#🔵31@oneclickvpnkeys
 hysteria2://VPNJEy@[2a0f:5707:aaf1:11a6::1]:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
 hysteria2://VPNJey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
 hysteria2://VPNJey@[2a0f:5707:aaf1:11a6::1]:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#Telegram@vpnjey
@@ -27,6 +25,11 @@ hysteria2://b42d90fa667942aebc734d60@159.13.55.48:20000,20000-30000/?insecure=1&
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
+hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?security=tls&obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&insecure=0&sni=litelitvalitter.rooferz.surf#🇷🇺223601 | ⚡️Telegram = t.me/SOSkeyNET
+hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?security=tls&obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&insecure=0&sni=litelitvalitter.rooferz.surf#🇷🇺223650 | ⚡️Telegram = t.me/LonUp_M
+hysteria2://capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8444/?insecure=1&obfs=salamander&obfs-password=HVD1C0uyo38mMz8B&sni=vpn.local#🇳🇱223636 | ⚡️Telegram = t.me/SOSkeyNET
+hysteria2://capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8444/?insecure=1&obfs=salamander&obfs-password=HVD1C0uyo38mMz8B&sni=vpn.local#🇳🇱223685 | ⚡️Telegram = t.me/LonUp_M
+hysteria2://capadmae6e0190:moJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8444/?insecure=1&obfs=salamander&obfs-password=HVD1C0uyo38mMz8B&sni=vpn.local#📗5@oneclickvpnkeys
 hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salamander&obfs-password=km9oqmefh2km1i5n&insecure=0&sni=panel.autonetshop.ir#@v2ray_phoenix
 hysteria2://ePPsH1bMFD@23.141.172.229:50541?alpn=h3,h2,http/1.1&insecure=1&sni=is1-ssl.mzstatic.com#@V2rayNPVTConfig
 hysteria2://fce629d692a7b1ad71a17dae29d8b3c6@172.87.24.53:8443/?insecure=1&sni=hy2k2p.local#⚙️73@oneclickvpnkeys
